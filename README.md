@@ -22,6 +22,3 @@ The app provides a modern, intuitive interface to browse events, view details, a
 - **Backend/Database:** (add here – e.g., Firebase, REST API, Supabase, etc.)  
 - **Other Tools:** Expo Location, Expo Notifications  
 
----
-
-## 📂 Project Structure
